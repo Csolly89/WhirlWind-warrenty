@@ -13,7 +13,9 @@ document.body.append(Input)
 }
 
 LabelBox("FirstName")
-// let Space = document.creatElement("")
+// tried making a dive here to seperate them but that didnt work out well..just deleted everything underneath it
+
+// let Space = document.creatElement("div")
 // document.body.append(Space)
 LabelBox("LastName")
 LabelBox("Company Name")
